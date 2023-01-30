@@ -72,7 +72,7 @@ libraries and their implementation in current project:
 
 Artificial neural network (ANN) is a computational model that consists of several processing elements that receive inputs and deliver outputs based on their predefined activation functions.(1)
 
-1.Journal of Environmental Management, 2015.["Artificial Neural Network"](https://pandas.pydata.org/](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/artificial-neural-network)
+1.Journal of Environmental Management, 2015. ["Artificial Neural Network"](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/artificial-neural-network)
 
 ## Future_plans
 
