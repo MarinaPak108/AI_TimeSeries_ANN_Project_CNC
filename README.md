@@ -52,7 +52,7 @@ libraries and their implementation in current project:
 ### Algorithms
 
 <p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://ars.els-cdn.com/content/image/3-s2.0-B0122274105008371-gr1.gif)">
+  <img width="460" height="300" src="[https://ars.els-cdn.com/content/image/3-s2.0-B0122274105008371-gr1.gif]">
 </p>
 
 Artificial neural network (ANN) is a computational model that consists of several processing elements that receive inputs and deliver outputs based on their predefined activation functions.(1)
