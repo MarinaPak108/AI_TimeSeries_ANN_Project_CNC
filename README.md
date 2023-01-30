@@ -21,7 +21,7 @@ Ths project was developed within the framework of study AI. The main point was t
 ### About_Dataset
 
 
-<img align="right" width="100" height="100" src="https://github.com/MarinaPak108/AI_CNC/blob/main/test_artifact.jpg">
+<img align="right" width="100" height="100" src="https://github.com/MarinaPak108/AI_TimeSeries_ANN_Project_CNC/blob/main/test_artifact.jpg">
 A series of machining experiments were run on 2" x 2" x 1.5" wax blocks in a CNC milling machine in the System-level Manufacturing and Automation Research Testbed (SMART) at the University of Michigan. Machining data was collected from a CNC machine for variations of tool condition, feed rate, and clamping pressure. Each experiment produced a finished wax part with an "S" shape - S for smart manufacturing - carved into the top face, as shown in test_artifact.jpg (included in the dataset).
 
 
