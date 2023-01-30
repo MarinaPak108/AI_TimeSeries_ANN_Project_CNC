@@ -13,6 +13,7 @@ Ths project was developed within the framework of AI studies. The main point was
 - [Libraries and Algorithms used](#Liabraries_and_Algorithms)
     - [Libraries](#Libraries)
     - [Algorithms](#Algorithms)
+- [Future plans](#Future_plans)
 
 ## Project
 
@@ -35,7 +36,21 @@ To meet the deadline and perform analysis and model training properly project sc
 *   building time series  and ANN model, model hyperparameters tuning to detect inadequate clamping
 
 ### Data_Analysis
+
+Data were visualized in several combinations:
+
+*   variables per each experiment
+*   variables in connection to completed vs not completed experiiment
+*   requested vs actual variables in connecttion to completed vs not completed experiments
+
 ### Model_Development
+
+Model was developed by checking optimal:
+
+*   optimizer
+*   learning rate
+*   patience
+*   model architecture
 
 ## Liabraries_and_Algorithms
 ### Libraries
@@ -58,3 +73,9 @@ libraries and their implementation in current project:
 Artificial neural network (ANN) is a computational model that consists of several processing elements that receive inputs and deliver outputs based on their predefined activation functions.(1)
 
 1.Journal of Environmental Management, 2015.["Artificial Neural Network"]([https://pandas.pydata.org/](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/artificial-neural-network))
+
+## Future_plans
+
+Later on it is planned to:
+*   perform feature selection 
+*   train model using recurrent neural network (RNN), that suits more for training timeseries dataset
