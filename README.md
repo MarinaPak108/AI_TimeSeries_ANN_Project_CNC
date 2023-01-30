@@ -39,14 +39,15 @@ To meet the deadline and perform analysis and model training properly project sc
 
 ## Tools_and_Liabraries
 ### Libraries
+libraries and their implementation in current project:
+
 *   [pandas](https://pandas.pydata.org/) - for data manipulation and analysis
-*   numpy
-*   matplotlib
-*   seaborn
-*   holoviews
-*   sklearn
-*   keras
-*   tensorflow
-*   seaborn
+*   [numpy](https://numpy.org/) - for scientific computing with Python
+*   [matplotlib](https://matplotlib.org/) - for creating static, animated, and interactive visualizations in Python
+*   [seaborn](https://seaborn.pydata.org/) - for drawing attractive and informative statistical graphics
+*   [holoviews](https://holoviews.org/) - for complex data annotation and seamless and simple visualization
+*   [sklearn](https://scikit-learn.org/stable/) - to analyze results
+*   [Module: tf.keras](https://www.tensorflow.org/api_docs/python/tf/keras) - for developing artificial neural network
+
 ### Tools
 
