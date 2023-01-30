@@ -10,9 +10,9 @@ Ths project was developed within the framework of AI studies. The main point was
     - [Scope](#Scope)
     - [Data analysis](#Data_Analysis)
     - [Model development](#Model_Development)
-- [Tools and Libraries used](#Tools_and_Liabraries)
+- [Libraries and Algorithms used](#Liabraries_and_Algorithms)
     - [Libraries](#Libraries)
-    - [Tools](#Tools)
+    - [Algorithms](#Algorithms)
 
 ## Project
 
@@ -37,7 +37,7 @@ To meet the deadline and perform analysis and model training properly project sc
 ### Data_Analysis
 ### Model_Development
 
-## Tools_and_Liabraries
+## Liabraries_and_Algorithms
 ### Libraries
 libraries and their implementation in current project:
 
@@ -49,5 +49,12 @@ libraries and their implementation in current project:
 *   [sklearn](https://scikit-learn.org/stable/) - to analyze results
 *   [Module: tf.keras](https://www.tensorflow.org/api_docs/python/tf/keras) - for developing artificial neural network
 
-### Tools
+### Algorithms
 
+<p align="center">
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://ars.els-cdn.com/content/image/3-s2.0-B0122274105008371-gr1.gif)">
+</p>
+
+Artificial neural network (ANN) is a computational model that consists of several processing elements that receive inputs and deliver outputs based on their predefined activation functions.(1)
+
+1.Journal of Environmental Management, 2015.["Artificial Neural Network"]([https://pandas.pydata.org/](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/artificial-neural-network))
