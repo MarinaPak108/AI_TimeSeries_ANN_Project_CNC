@@ -39,7 +39,7 @@ To meet the deadline and perform analysis and model training properly project sc
 
 ## Tools_and_Liabraries
 ### Libraries
-*   pandas
+*   [pandas](https://pandas.pydata.org/) - for data manipulation and analysis
 *   numpy
 *   matplotlib
 *   seaborn
