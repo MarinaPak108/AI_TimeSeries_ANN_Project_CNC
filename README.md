@@ -1,6 +1,6 @@
 # TimeSeries_ANN_Project "CNC Mill Tool Wear"
 
-Ths project was developed within the framework of AI studies. The main point was to show thought process behid model training and data understanding.
+This project was developed within the framework of AI studies. The main point was to show thought process behid model training and data understanding.
 
 
 
@@ -17,7 +17,7 @@ Ths project was developed within the framework of AI studies. The main point was
 
 ## Project
 
-Ths project was developed within the framework of study AI. The main point was to provide deep data analysis and train the model using Artificaial Neural Networks.
+This project was developed within the framework of study AI. The main point was to provide deep data analysis and train the model using Artificaial Neural Networks.
 
 ### About_Dataset
 
