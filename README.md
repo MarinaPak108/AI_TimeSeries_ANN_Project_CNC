@@ -54,7 +54,7 @@ Model was developed by checking optimal:
 
 ## Liabraries_and_Algorithms
 ### Libraries
-libraries and their implementation in current project:
+libraries applied in current project:
 
 *   [pandas](https://pandas.pydata.org/) - for data manipulation and analysis
 *   [numpy](https://numpy.org/) - for scientific computing with Python
@@ -62,7 +62,7 @@ libraries and their implementation in current project:
 *   [seaborn](https://seaborn.pydata.org/) - for drawing attractive and informative statistical graphics
 *   [holoviews](https://holoviews.org/) - for complex data annotation and seamless and simple visualization
 *   [sklearn](https://scikit-learn.org/stable/) - to analyze results
-*   [Module: tf.keras](https://www.tensorflow.org/api_docs/python/tf/keras) - for developing artificial neural network
+*   [tensorflow](https://www.tensorflow.org) - for developing artificial neural network
 
 ### Algorithms
 
